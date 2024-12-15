@@ -1,6 +1,7 @@
-#### Hi there 👋 Hi there 👋
+#### Hi there 👋 
 I'm learning iOS development on my own, trying ARkit for interesting things.
-<!--<!--
+Contact me by mrwangguanda@icloud.com
+<!--
 **xiangri678/xiangri678** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.**xiangri678/xiangri678** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:Here are some ideas to get you started:
@@ -13,4 +14,4 @@ Here are some ideas to get you started:Here are some ideas to get you started:
 - 📫 How to reach me: ...- 📫 How to reach me: ...
 - 😄 Pronouns: ...- 😄 Pronouns: ...
 - ⚡ Fun fact: ...- ⚡ Fun fact: ...
--->-->
+-->
