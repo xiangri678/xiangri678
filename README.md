@@ -2,30 +2,28 @@
 
 **Backend Engineering · AI / Agent Systems · Apple Platform**
 
-M.S. student at Beijing University of Posts and Telecommunications
+M.S. student at Beijing University of Posts and Telecommunications — lab research spans SfM, SLAM, WebXR, 5G messaging, and cultural-tourism agent systems
 
-visionOS & iOS — ARKit, RealityKit, SwiftUI
+Primarily Java and Python, with real production backend experience and several shipped AI projects
 
-Java backend — Spring Boot microservices, real production experience
+Fine-tuning LLMs on Apple Silicon, interested in LLM memory and multi-agent workflows
 
-Tinkering with AI — QLoRA fine-tuning on Apple Silicon, daily-driving Codex / Claude Code for agent workflows
-
-Also into: SLAM, compiler theory, DSL design
+visionOS & iOS on the side — occasional spatial computing with ARKit and RealityKit
 
 ---
 
-### Live Projects
+ Live Projects
 
 | Project                                  | Description                                                  |
 | ---------------------------------------- | ------------------------------------------------------------ |
-| [BotZhipin](https://www.botzhipin.work/) | Multi-agent everyday assistant with group-chat support and one-click OpenClaw deployment |
+| [BotZhipin](https://www.botzhipin.work/) | Multi-agent job assistant with group-chat support and one-click OpenClaw deployment |
 | [MiningGoat](https://washuyang.com/)     | Data marketplace with paper recommendations, an OPC open-source community, and a knowledge-base workflow |
 | [QuantBlocks](https://quantblocks.tech/) | Multi-agent platform for stock research and quantitative analysis |
 | [EdVance](https://edvance.pro/)          | Study-abroad recommendation system covering school matching, essay drafting, and AI-trace detection |
 
 ### What I'm Working On
 
-- Lab & thesis: SfM, SLAM, and AI agent systems — studying how autonomous coding agents hold up in real software engineering tasks
+- Lab & thesis: graduation project on AI-driven cultural-tourism agents, grounded in SfM and SLAM
 - Spatial computing: AR apps that tell Chinese stories, from dinosaur fossil museums to the 24 solar terms
 - Backend: full-stack Java enterprise development
 - AI/ML: QLoRA + MLX fine-tuning on Apple Silicon, curious about LLM memory, messing around with agent workflows
@@ -41,27 +39,9 @@ Also into: SLAM, compiler theory, DSL design
 | [AlgoSwiftly](https://github.com/xiangri678/AlgoSwiftly)                                       | Swift              | Algorithm deep-dives in Swift                            |
 | [AlgoJolt](https://github.com/xiangri678/AlgoJolt)                                             | Java               | Algorithm deep-dives in Java                             |
 
-### Stack
-
-Java · Spring Cloud · MyBatis · MySQL · Redis · PostgreSQL · Nacos
-
-Swift · RealityKit · ARKit · visionOS · iOS
-
-Python · PyTorch · MLX · QLoRA
-
-Unity · C# · EasyAR
-
-Vue · TypeScript · WebRTC · uni-app
-
-Git · Docker · Claude Code · Codex
-
 ### Contact
 
-- Email: `mrwangguanda#icloud.com` (replace # with @)
-
-
-
----
+- Email: `mrwangguand#@icloud.com` (replace # with @)
 
 <!--
 **xiangri678/xiangri678** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.**xiangri678/xiangri678** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
