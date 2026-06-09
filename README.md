@@ -57,7 +57,7 @@ Git · Docker · Claude Code · Codex
 
 ### Contact
 
-- Email: `mrwangguand#icloud.com` (replace # with @)
+- Email: `mrwangguanda#icloud.com` (replace # with @)
 
 
 
