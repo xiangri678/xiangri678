@@ -1,6 +1,68 @@
-#### Hi there 👋 
-I'm learning iOS development on my own, trying ARkit for interesting things.
-Contact me by mrwangguanda@icloud.com
+### 👋 Hi there, I'm Guanda Wang (Evelyn)
+
+**Backend Engineering · AI / Agent Systems · Apple Platform**
+
+M.S. student at Beijing University of Posts and Telecommunications
+
+visionOS & iOS — ARKit, RealityKit, SwiftUI
+
+Java backend — Spring Boot microservices, real production experience
+
+Tinkering with AI — QLoRA fine-tuning on Apple Silicon, daily-driving Codex / Claude Code for agent workflows
+
+Also into: SLAM, compiler theory, DSL design
+
+---
+
+### Live Projects
+
+| Project                                  | Description                                                  |
+| ---------------------------------------- | ------------------------------------------------------------ |
+| [BotZhipin](https://www.botzhipin.work/) | Multi-agent everyday assistant with group-chat support and one-click OpenClaw deployment |
+| [MiningGoat](https://washuyang.com/)     | Data marketplace with paper recommendations, an OPC open-source community, and a knowledge-base workflow |
+| [QuantBlocks](https://quantblocks.tech/) | Multi-agent platform for stock research and quantitative analysis |
+| [EdVance](https://edvance.pro/)          | Study-abroad recommendation system covering school matching, essay drafting, and AI-trace detection |
+
+### What I'm Working On
+
+- Lab & thesis: SfM, SLAM, and AI agent systems — studying how autonomous coding agents hold up in real software engineering tasks
+- Spatial computing: AR apps that tell Chinese stories, from dinosaur fossil museums to the 24 solar terms
+- Backend: full-stack Java enterprise development
+- AI/ML: QLoRA + MLX fine-tuning on Apple Silicon, curious about LLM memory, messing around with agent workflows
+
+### Selected Projects
+
+| Project                                                                                         | Stack              | Description                                              |
+| ----------------------------------------------------------------------------------------------- | ------------------ | -------------------------------------------------------- |
+| [DinoAR](https://github.com/xiangri678/DinoAR)                                                 | Unity · C#         | AR museum experience built around dinosaur fossils       |
+| [HeritageMemory](https://github.com/xiangri678/HeritageMemory)                                 | ARKit · RealityKit | AR app pairing the 24 solar terms with the 12 zodiac animals |
+| [Kinect-StandardCam-WebRTC](https://github.com/xiangri678/Kinect-StandardCam-WebRTC)           | WebRTC · JS        | Volumetric-video conferencing system (undergraduate thesis) |
+| [PyDSL_APPLE](https://github.com/xiangri678/PyDSL_APPLE)                                       | Python             | Domain-specific language for automated customer-service bots |
+| [AlgoSwiftly](https://github.com/xiangri678/AlgoSwiftly)                                       | Swift              | Algorithm deep-dives in Swift                            |
+| [AlgoJolt](https://github.com/xiangri678/AlgoJolt)                                             | Java               | Algorithm deep-dives in Java                             |
+
+### Stack
+
+Java · Spring Cloud · MyBatis · MySQL · Redis · PostgreSQL · Nacos
+
+Swift · RealityKit · ARKit · visionOS · iOS
+
+Python · PyTorch · MLX · QLoRA
+
+Unity · C# · EasyAR
+
+Vue · TypeScript · WebRTC · uni-app
+
+Git · Docker · Claude Code · Codex
+
+### Contact
+
+- Email: `mrwangguand#icloud.com` (replace # with @)
+
+
+
+---
+
 <!--
 **xiangri678/xiangri678** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.**xiangri678/xiangri678** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
